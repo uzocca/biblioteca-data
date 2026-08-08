@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-08T13:37:26.692Z",
+  "updated": "2026-08-08T13:37:40.317Z",
   "books": [
+    {
+      "id": 1786196259879,
+      "title": "Programmazione neurolinguistica. Lo studio della struttura dell'esperienza soggettiva",
+      "author": "Robert B. Dilts, John Grinder, Richard Bandler",
+      "year": "1982",
+      "isbn": "9788834007099",
+      "category": "Self",
+      "location": "",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=M-h0AAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1786196246188,
       "title": "Creare modelli con la PNL",
