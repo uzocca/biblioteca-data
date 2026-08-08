@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-08T13:43:54.692Z",
+  "updated": "2026-08-08T13:44:07.494Z",
   "books": [
+    {
+      "id": 1786196646943,
+      "title": "101 modi per liberarti dagli stronzi e trovare soddisfazione nel lavoro",
+      "author": "Luca Stanchieri",
+      "year": "2010",
+      "isbn": "9788854118409",
+      "category": "Self",
+      "location": "",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=2UoBRAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1786196634232,
       "title": "Il metodo antistronzi",
