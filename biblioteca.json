@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "updated": "2026-08-08T13:09:34.149Z",
+  "updated": "2026-08-08T13:35:00.361Z",
   "books": [],
   "categories": [
+    "Cooperazione",
+    "Filosofia",
     "Narrativa",
     "Saggistica",
-    "Filosofia",
-    "Storia",
-    "Cooperazione"
+    "Self",
+    "Storia"
   ]
 }
