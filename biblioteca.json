@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-08T13:49:22.556Z",
+  "updated": "2026-08-08T13:49:36.160Z",
   "books": [
+    {
+      "id": 1786196975593,
+      "title": "Procrastinare. Come superare il vizio di rimandare",
+      "author": "Windy Dryden",
+      "year": "2016",
+      "isbn": "9788898823826",
+      "category": "Self",
+      "location": "",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=x66HjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1786196962065,
       "title": "Pensare come Leonardo. I sette princìpi del genio",
