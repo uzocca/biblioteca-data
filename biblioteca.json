@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-08T13:38:55.681Z",
+  "updated": "2026-08-08T13:39:12.033Z",
   "books": [
+    {
+      "id": 1786196351597,
+      "title": "Leggere il pensiero non è una magia. Decifrare e influenzare il comportamento degli altri",
+      "author": "Henrik Fexeus",
+      "year": "2012",
+      "isbn": "9788878878297",
+      "category": "Self",
+      "location": "",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=GdJ2tgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1786196335204,
       "title": "Come convincere gli altri fare quello che vuoi e farti amare per questo",
