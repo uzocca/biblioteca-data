@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-08T13:39:12.033Z",
+  "updated": "2026-08-08T13:42:04.005Z",
   "books": [
+    {
+      "id": 1786196523523,
+      "title": "PNL",
+      "author": "Giulio Granata",
+      "year": "2007",
+      "isbn": "9788841259580",
+      "category": "Self",
+      "location": "",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=tuJGAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1786196351597,
       "title": "Leggere il pensiero non è una magia. Decifrare e influenzare il comportamento degli altri",
