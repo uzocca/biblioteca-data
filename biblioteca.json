@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-08T13:48:48.604Z",
+  "updated": "2026-08-08T13:49:04.249Z",
   "books": [
+    {
+      "id": 1786196943800,
+      "title": "Cambia vita in 7 giorni. Con CD Audio",
+      "author": "Paul McKenna",
+      "year": "2007",
+      "isbn": "9788850214693",
+      "category": "Self",
+      "location": "",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=P4PiHgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1786196928129,
       "title": "Cambiare è semplice. Come lasciarsi alle spalle le cattive abitudini e vivere sereni",
