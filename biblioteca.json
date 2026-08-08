@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-08T13:46:32.183Z",
+  "updated": "2026-08-08T13:46:45.299Z",
   "books": [
+    {
+      "id": 1786196804902,
+      "title": "L'arte di sbagliare. Avventure nel margine d'errore",
+      "author": "Kathryn Schulz",
+      "year": "2019",
+      "isbn": "9788845298936",
+      "category": "Self",
+      "location": "",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=L3wFwQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1786196791696,
       "title": "I 13 segreti per potenziare la tua mente",
