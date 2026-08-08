@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-08T13:46:45.299Z",
+  "updated": "2026-08-08T13:46:57.105Z",
   "books": [
+    {
+      "id": 1786196816641,
+      "title": "Non puoi mentirmi. Impara a leggere il linguaggio del corpo e a smascherare le intenzioni degli altri",
+      "author": "Thorsten Havener",
+      "year": "2012",
+      "isbn": "9788850229079",
+      "category": "Self",
+      "location": "",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=v2sDuwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1786196804902,
       "title": "L'arte di sbagliare. Avventure nel margine d'errore",
