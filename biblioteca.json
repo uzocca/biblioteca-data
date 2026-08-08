@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-08T13:49:59.443Z",
+  "updated": "2026-08-08T13:50:14.667Z",
   "books": [
+    {
+      "id": 1786197014171,
+      "title": "Simplify your life. Vivere in modo più facile e più felice",
+      "author": "Werner T. Küstenmacher, Lothar J. Seiwert",
+      "year": "2004",
+      "isbn": "9788821551369",
+      "category": "Self",
+      "location": "",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=-qZQAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1786196998933,
       "title": "Quattro ore alla settimana. Ricchi e felici lavorando dieci volte meno",
