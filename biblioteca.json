@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-08T13:37:55.368Z",
+  "updated": "2026-08-08T13:38:09.807Z",
   "books": [
+    {
+      "id": 1786196289177,
+      "title": "Quaderno d'esercizi per diventare efficienti",
+      "author": "Yves-Alexandre Thalmann",
+      "year": "2015",
+      "isbn": "9788867318278",
+      "category": "Self",
+      "location": "",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=-EtIrgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1786196274343,
       "title": "Personal Learning. La migliore tecnica di apprendimento veloce",
