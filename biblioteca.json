@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-08T13:50:28.833Z",
+  "updated": "2026-08-08T14:09:07.485Z",
   "books": [
+    {
+      "id": 1786198146976,
+      "title": "Time Line - la ristrutturazione dell’esperienza temporale con la pnl",
+      "author": "James -Woodsmall",
+      "year": "2001",
+      "isbn": "",
+      "category": "Self",
+      "location": "",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=D4nxEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1786197028367,
       "title": "Nati per vincere. Analisi transazionale con esercizi di Gestalt",
