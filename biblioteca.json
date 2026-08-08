@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-08T13:50:14.667Z",
+  "updated": "2026-08-08T13:50:28.833Z",
   "books": [
+    {
+      "id": 1786197028367,
+      "title": "Nati per vincere. Analisi transazionale con esercizi di Gestalt",
+      "author": "Muriel James, Dorothy Jongeward",
+      "year": "2010",
+      "isbn": "9788821512674",
+      "category": "Self",
+      "location": "",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=5BYBPQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1786197014171,
       "title": "Simplify your life. Vivere in modo più facile e più felice",
