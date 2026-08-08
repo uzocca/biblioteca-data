@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-08T13:38:09.807Z",
+  "updated": "2026-08-08T13:38:27.419Z",
   "books": [
+    {
+      "id": 1786196306918,
+      "title": "Quando fai quello che voglio io. Tecniche di manipolazione occulta",
+      "author": "Henrik Fexeus",
+      "year": "2013",
+      "isbn": "9788867311316",
+      "category": "Self",
+      "location": "",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=lfiLlgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1786196289177,
       "title": "Quaderno d'esercizi per diventare efficienti",
