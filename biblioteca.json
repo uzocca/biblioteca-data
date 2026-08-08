@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-08T13:49:04.249Z",
+  "updated": "2026-08-08T13:49:22.556Z",
   "books": [
+    {
+      "id": 1786196962065,
+      "title": "Pensare come Leonardo. I sette princìpi del genio",
+      "author": "Michael J. Gelb",
+      "year": "2005",
+      "isbn": "9788851522575",
+      "category": "Self",
+      "location": "",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=9VXgAQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1786196943800,
       "title": "Cambia vita in 7 giorni. Con CD Audio",
