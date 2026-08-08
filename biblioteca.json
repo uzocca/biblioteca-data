@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-08T13:48:12.644Z",
+  "updated": "2026-08-08T13:48:33.016Z",
   "books": [
+    {
+      "id": 1786196912547,
+      "title": "La sottile arte di fare quello che c***o ti pare",
+      "author": "Mark Manson",
+      "year": "2017",
+      "isbn": "9788822707451",
+      "category": "Self",
+      "location": "",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=_47iAQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1786196892189,
       "title": "L'intelligenza verbale. Testo inglese a fronte",
