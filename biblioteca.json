@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-08T13:44:07.494Z",
+  "updated": "2026-08-08T13:44:23.262Z",
   "books": [
+    {
+      "id": 1786196662836,
+      "title": "Chi è seduto sulla sedia del capo?",
+      "author": "Richard Conniff",
+      "year": "2006",
+      "isbn": "9788820041076",
+      "category": "Self",
+      "location": "",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=bXuRAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1786196646943,
       "title": "101 modi per liberarti dagli stronzi e trovare soddisfazione nel lavoro",
