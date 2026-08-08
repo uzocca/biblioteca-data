@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-08T13:48:33.016Z",
+  "updated": "2026-08-08T13:48:48.604Z",
   "books": [
+    {
+      "id": 1786196928129,
+      "title": "Cambiare è semplice. Come lasciarsi alle spalle le cattive abitudini e vivere sereni",
+      "author": "Richard Koch, Greg Lockwood",
+      "year": "2016",
+      "isbn": "9788854191143",
+      "category": "Self",
+      "location": "",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=zq6jjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1786196912547,
       "title": "La sottile arte di fare quello che c***o ti pare",
