@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-08T13:36:39.078Z",
+  "updated": "2026-08-08T13:36:58.431Z",
   "books": [
+    {
+      "id": 1786196218003,
+      "title": "L'arte di imparare. Come, quando e perché accade",
+      "author": "Benedict Carey",
+      "year": "2016",
+      "isbn": "9788804656449",
+      "category": "Self",
+      "location": "",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=VdtAjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1786196198274,
       "title": "Il manuale del coach. Le tecniche per aiutare te stesso e gli altri a raggiungere i risultati desiderati",
