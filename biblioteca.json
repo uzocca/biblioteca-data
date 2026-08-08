@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-08T13:49:36.160Z",
+  "updated": "2026-08-08T13:49:47.574Z",
   "books": [
+    {
+      "id": 1786196987132,
+      "title": "Il fattore Einstein. Tecniche per liberare il genio personale",
+      "author": "Win Wenger, Richard Poe",
+      "year": "2004",
+      "isbn": "9788888612164",
+      "category": "Self",
+      "location": "",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=l_0EPQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1786196975593,
       "title": "Procrastinare. Come superare il vizio di rimandare",
