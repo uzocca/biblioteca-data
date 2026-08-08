@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-08T13:44:23.262Z",
+  "updated": "2026-08-08T13:44:54.667Z",
   "books": [
+    {
+      "id": 1786196694162,
+      "title": "Come trattare gli altri e farseli amici",
+      "author": "Carnegie Dale",
+      "year": "1990",
+      "isbn": "9788845215254",
+      "category": "Self",
+      "location": "",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=kiSJPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1786196662836,
       "title": "Chi è seduto sulla sedia del capo?",
