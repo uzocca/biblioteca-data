@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-08T13:45:07.539Z",
+  "updated": "2026-08-08T13:45:20.898Z",
   "books": [
+    {
+      "id": 1786196720429,
+      "title": "L'arte di avere sempre l'ultima parola. Da Aristotele a Homer Simpson, tutti i segreti della persuasione",
+      "author": "Jay Heinrichs",
+      "year": "2008",
+      "isbn": "9788874967353",
+      "category": "Self",
+      "location": "",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=eIM7IAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1786196707062,
       "title": "Creatività e pensiero laterale",
