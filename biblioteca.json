@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-08T13:37:40.317Z",
+  "updated": "2026-08-08T13:37:55.368Z",
   "books": [
+    {
+      "id": 1786196274343,
+      "title": "Personal Learning. La migliore tecnica di apprendimento veloce",
+      "author": "Fabesca Demà",
+      "year": "2008",
+      "isbn": "9788895577159",
+      "category": "Self",
+      "location": "",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=tAt5RAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1786196259879,
       "title": "Programmazione neurolinguistica. Lo studio della struttura dell'esperienza soggettiva",
