@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-08T13:42:54.298Z",
+  "updated": "2026-08-08T13:43:12.381Z",
   "books": [
+    {
+      "id": 1786196591969,
+      "title": "PNL in 21 giorni. Un approccio rivoluzionario alla comunicazione umana e allo sviluppo personale",
+      "author": "Harry Alder, Beryl Heather",
+      "year": "2007",
+      "isbn": "9788880935766",
+      "category": "Self",
+      "location": "",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=dKsXGQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1786196573917,
       "title": "PNL per il problem solving",
