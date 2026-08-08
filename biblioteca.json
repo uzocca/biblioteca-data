@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-08T13:45:33.611Z",
+  "updated": "2026-08-08T13:45:46.207Z",
   "books": [
+    {
+      "id": 1786196745735,
+      "title": "Io vinco tu perdi. Strategie di successo nel business e nella vita",
+      "author": "Avinash K. Dixit, Barry Nalebuff",
+      "year": "1998",
+      "isbn": "9788871878973",
+      "category": "Self",
+      "location": "",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": ""
+    },
     {
       "id": 1786196733190,
       "title": "Intelligenza emotiva",
