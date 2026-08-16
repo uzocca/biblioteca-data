@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-16T17:40:25.131Z",
+  "updated": "2026-08-16T17:40:53.348Z",
   "books": [
+    {
+      "id": 1786902052895,
+      "title": "Tipping point. La vendetta del punto critico",
+      "author": "Malcolm Gladwell",
+      "year": "2025",
+      "isbn": "9791221216172",
+      "category": "",
+      "location": "File",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=_1to0QEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1786902024474,
       "title": "Il punto critico. I grandi effetti dei piccoli cambiamenti",
