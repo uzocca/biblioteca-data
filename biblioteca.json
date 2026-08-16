@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-16T17:38:54.230Z",
+  "updated": "2026-08-16T17:39:23.655Z",
   "books": [
+    {
+      "id": 1786901963149,
+      "title": "Design yourself. Crea la tua identità visiva e verbale",
+      "author": "Giada Correale, Serena Giust",
+      "year": "2022",
+      "isbn": "9788836006816",
+      "category": "",
+      "location": "File",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=1gb4zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1786901933637,
       "title": "Future of work: le persone al centro. Costruire il lavoro e la società del futuro",
