@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-16T17:43:14.811Z",
+  "updated": "2026-08-16T17:44:10.216Z",
   "books": [
+    {
+      "id": 1786902249450,
+      "title": "Le abitudini per l'alta prestazione. La strada per diventare persone eccezionali",
+      "author": "Brendon Burchard",
+      "year": "2018",
+      "isbn": "9788885493117",
+      "category": "",
+      "location": "File",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=pcJotgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1786902194289,
       "title": "Come migliorare il proprio stato mentale, fisico e finanziario. Manuale di psicologia del cambiamento",
