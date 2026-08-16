@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-16T20:19:57.513Z",
+  "updated": "2026-08-16T20:20:10.659Z",
   "books": [
+    {
+      "id": 1786911609837,
+      "title": "Never finished. Libera la tua mente e vinci la tua guerra con te stesso",
+      "author": "David Goggins",
+      "year": "2024",
+      "isbn": "9791222200439",
+      "category": "",
+      "location": "File",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=WbG30AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1786911596644,
       "title": "Renditi utile. Sette regole per cambiare la tua vita",
