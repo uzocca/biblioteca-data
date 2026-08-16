@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-16T17:39:42.434Z",
+  "updated": "2026-08-16T17:40:25.131Z",
   "books": [
+    {
+      "id": 1786902024474,
+      "title": "Il punto critico. I grandi effetti dei piccoli cambiamenti",
+      "author": "Malcolm Gladwell",
+      "year": "2020",
+      "isbn": "9788851181222",
+      "category": "",
+      "location": "File",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=uJvxzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1786901981909,
       "title": "Il liberismo è di sinistra",
