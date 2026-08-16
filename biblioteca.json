@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-16T17:42:01.452Z",
+  "updated": "2026-08-16T17:42:19.374Z",
   "books": [
+    {
+      "id": 1786902138942,
+      "title": "Le 7 regole per avere successo. The 7 habits of highly effective people. Nuova ediz.",
+      "author": "Stephen R. Covey",
+      "year": "2021",
+      "isbn": "9788835117797",
+      "category": "",
+      "location": "File",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=81hzzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1786902121046,
       "title": "Le armi della persuasione",
