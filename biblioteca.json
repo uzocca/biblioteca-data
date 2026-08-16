@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-16T17:42:19.374Z",
+  "updated": "2026-08-16T17:42:35.602Z",
   "books": [
+    {
+      "id": 1786902154809,
+      "title": "Psicocibernetica",
+      "author": "Maxwell Maltz",
+      "year": "1965",
+      "isbn": "9788834004807",
+      "category": "",
+      "location": "File",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=bi4GHQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1786902138942,
       "title": "Le 7 regole per avere successo. The 7 habits of highly effective people. Nuova ediz.",
