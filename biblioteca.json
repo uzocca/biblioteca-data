@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-16T17:44:43.589Z",
+  "updated": "2026-08-16T17:45:01.265Z",
   "books": [
+    {
+      "id": 1786902300730,
+      "title": "Finanza personale con Excel con Mike",
+      "author": "Michele Costopulos Cappi",
+      "year": "2025",
+      "isbn": "9788850337729",
+      "category": "",
+      "location": "File",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=jsI00QEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1786902282871,
       "title": "Una cosa sola. L'unico metodo per fissare le priorità e ottenere risultati eccezionali",
