@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-16T17:55:54.687Z",
+  "updated": "2026-08-16T17:58:31.737Z",
   "books": [
+    {
+      "id": 1786903111119,
+      "title": "Ottieni tutto ciò che vuoi usando ciò che hai. 21 modi per pensare, agire, guadagnare ed espandere il tuo business",
+      "author": "Jay Abraham",
+      "year": "2023",
+      "isbn": "9788875174194",
+      "category": "",
+      "location": "File",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=rYfXzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1786902954141,
       "title": "Il manuale del coach. Gli strumenti per aiutare te stesso e gli altri a raggiungere i risultati desiderati",
