@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-16T17:38:11.782Z",
+  "updated": "2026-08-16T17:38:54.230Z",
   "books": [
+    {
+      "id": 1786901933637,
+      "title": "Future of work: le persone al centro. Costruire il lavoro e la società del futuro",
+      "author": "Stefano Besana",
+      "year": "2021",
+      "isbn": "9788836005734",
+      "category": "",
+      "location": "File",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=3j-vzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1786901891191,
       "title": "Strategia. Le 33 leggi per vincere",
