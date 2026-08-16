@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-16T18:01:50.483Z",
+  "updated": "2026-08-16T20:19:57.513Z",
   "books": [
+    {
+      "id": 1786911596644,
+      "title": "Renditi utile. Sette regole per cambiare la tua vita",
+      "author": "Arnold Schwarzenegger",
+      "year": "2023",
+      "isbn": "9788830461147",
+      "category": "",
+      "location": "File",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=A3g60AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1786903309802,
       "title": "Brand activism. Dal purpose all'azione",
