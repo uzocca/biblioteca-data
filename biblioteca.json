@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-16T17:42:59.719Z",
+  "updated": "2026-08-16T17:43:14.811Z",
   "books": [
+    {
+      "id": 1786902194289,
+      "title": "Come migliorare il proprio stato mentale, fisico e finanziario. Manuale di psicologia del cambiamento",
+      "author": "Anthony Robbins",
+      "year": "1992",
+      "isbn": "9788845219344",
+      "category": "",
+      "location": "File",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": ""
+    },
     {
       "id": 1786902179224,
       "title": "Flow. Psicologia dell'esperienza ottimale",
