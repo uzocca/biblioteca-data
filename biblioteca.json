@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-16T20:20:25.540Z",
+  "updated": "2026-08-16T20:20:42.941Z",
   "books": [
+    {
+      "id": 1786911642269,
+      "title": "Nella mente del campione. Le quattro fasi della scalata verso la self-confidence e il successo",
+      "author": "Riccardo Ceccarelli",
+      "year": "2024",
+      "isbn": "9788809920361",
+      "category": "",
+      "location": "File",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=kQbx0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1786911624968,
       "title": "Cinquantanove secondi. Pensa poco, cambia molto",
