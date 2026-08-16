@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-16T20:20:42.941Z",
+  "updated": "2026-08-16T20:20:58.278Z",
   "books": [
+    {
+      "id": 1786911657372,
+      "title": "Troppo comodi. Accettare il disagio per riconquistare la nostra parte selvaggia, felice e in salute",
+      "author": "Michael Easter",
+      "year": "2023",
+      "isbn": "9788836201471",
+      "category": "",
+      "location": "File",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=PorEzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1786911642269,
       "title": "Nella mente del campione. Le quattro fasi della scalata verso la self-confidence e il successo",
