@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-16T17:45:01.265Z",
+  "updated": "2026-08-16T17:45:22.259Z",
   "books": [
+    {
+      "id": 1786902321821,
+      "title": "Checklist. Come fare andare meglio le cose",
+      "author": "Atul Gawande",
+      "year": "2021",
+      "isbn": "9788806249755",
+      "category": "",
+      "location": "File",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=g7SbzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1786902300730,
       "title": "Finanza personale con Excel con Mike",
