@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-16T17:45:37.414Z",
+  "updated": "2026-08-16T17:53:27.058Z",
   "books": [
+    {
+      "id": 1786902806435,
+      "title": "Il fuzzy pensiero. Teoria e applicazioni della logica fuzzy",
+      "author": "Bart Kosko",
+      "year": "2010",
+      "isbn": "9788860737823",
+      "category": "",
+      "location": "File",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=2ppVcgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1786902336917,
       "title": "Sei già ricco ma non lo sai. Il manuale di finanza personale per risparmiare e investire partendo da te",
