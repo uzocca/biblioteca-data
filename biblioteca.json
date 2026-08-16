@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-16T20:20:10.659Z",
+  "updated": "2026-08-16T20:20:25.540Z",
   "books": [
+    {
+      "id": 1786911624968,
+      "title": "Cinquantanove secondi. Pensa poco, cambia molto",
+      "author": "Richard Wiseman",
+      "year": "2010",
+      "isbn": "9788862201643",
+      "category": "",
+      "location": "File",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=lKKwSgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1786911609837,
       "title": "Never finished. Libera la tua mente e vinci la tua guerra con te stesso",
