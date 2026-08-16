@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-16T17:53:27.058Z",
+  "updated": "2026-08-16T17:53:42.207Z",
   "books": [
+    {
+      "id": 1786902821667,
+      "title": "L'arte dell'impossibile. Che cosa innesca le prestazioni straordinarie",
+      "author": "Steven Kotler",
+      "year": "2021",
+      "isbn": "9788836200825",
+      "category": "",
+      "location": "File",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=dWe_zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1786902806435,
       "title": "Il fuzzy pensiero. Teoria e applicazioni della logica fuzzy",
