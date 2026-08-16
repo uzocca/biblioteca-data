@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-16T17:44:26.814Z",
+  "updated": "2026-08-16T17:44:43.589Z",
   "books": [
+    {
+      "id": 1786902282871,
+      "title": "Una cosa sola. L'unico metodo per fissare le priorità e ottenere risultati eccezionali",
+      "author": "Gary Keller, Jay Papasan",
+      "year": "2016",
+      "isbn": "9788850241255",
+      "category": "",
+      "location": "File",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=ObJ1rgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1786902266140,
       "title": "86400. Trova te stesso e cambia la tua vita con l'intelligenza valoriale",
