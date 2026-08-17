@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-17T18:00:40.798Z",
+  "updated": "2026-08-17T18:02:52.898Z",
   "books": [
+    {
+      "id": 1786989768590,
+      "title": "Il mestiere di scrivere. Le parole al lavoro, tra carta e web",
+      "author": "Luisa Carrada",
+      "year": "2008",
+      "isbn": "9788850326921",
+      "category": "",
+      "location": "File",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=Uyw0wGQEA3MC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1786989639125,
       "title": "Tecniche per produrre idee",
