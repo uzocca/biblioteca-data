@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-17T20:26:28.915Z",
+  "updated": "2026-08-17T20:29:27.474Z",
   "books": [
+    {
+      "id": 1786998566561,
+      "title": "Lo zen nell'arte della scrittura. Libera il genio creativo che è in te",
+      "author": "Ray Bradbury",
+      "year": "2006",
+      "isbn": "9788889969083",
+      "category": "",
+      "location": "File",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=xDPHAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1786998388300,
       "title": "Questo è il fuoco. Manuale di scrittura",
