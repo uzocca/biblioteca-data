@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-17T20:30:13.555Z",
+  "updated": "2026-08-17T20:31:33.749Z",
   "books": [
+    {
+      "id": 1786998693058,
+      "title": "Il nuovo libro della comunicazione. Che cosa significa comunicare: idee, tecnologie, strumenti, modelli",
+      "author": "Ugo Volli",
+      "year": "2010",
+      "isbn": "9788856501964",
+      "category": "",
+      "location": "",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=pkQn5hNZNCMC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1786998612918,
       "title": "Consigli a un giovane scrittore",
