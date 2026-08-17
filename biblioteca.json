@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-17T20:25:24.278Z",
+  "updated": "2026-08-17T20:25:45.377Z",
   "books": [
+    {
+      "id": 1786998344776,
+      "title": "Testi che parlano. Il tono di voce nei testi aziendali",
+      "author": "Valentina Falcinelli",
+      "year": "2018",
+      "isbn": "9788876676741",
+      "category": "",
+      "location": "",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=z0j1swEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1786998323409,
       "title": "Sedotti dalle storie. Usi e abusi della narrazione",
