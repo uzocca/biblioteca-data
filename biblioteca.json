@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-08-17T21:15:30.038Z",
+  "updated": "2026-08-17T21:15:52.337Z",
   "books": [
     {
       "id": 1787001329351,
@@ -9,10 +9,10 @@
       "year": "2024",
       "isbn": "9788862509053",
       "category": "",
-      "location": "",
+      "location": "File",
       "status": "daLeggere",
       "rating": 0,
-      "notes": "File",
+      "notes": "",
       "coverUrl": "https://books.google.com/books/content?id=XBCo0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     },
     {
