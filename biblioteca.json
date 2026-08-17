@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-17T21:03:33.039Z",
+  "updated": "2026-08-17T21:10:16.758Z",
   "books": [
+    {
+      "id": 1787001015873,
+      "title": "Pensare per sistemi",
+      "author": "Donella H. Meadows",
+      "year": "2019",
+      "isbn": "9788868961114",
+      "category": "",
+      "location": "File",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=rMyQDAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1787000612408,
       "title": "Atlante della complessità. Leggere le parole per navigare il presente",
