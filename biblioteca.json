@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-17T20:29:27.474Z",
+  "updated": "2026-08-17T20:30:13.555Z",
   "books": [
+    {
+      "id": 1786998612918,
+      "title": "Consigli a un giovane scrittore",
+      "author": "Vincenzo Cerami",
+      "year": "1996",
+      "isbn": "9788806140427",
+      "category": "",
+      "location": "File",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=XJVjQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1786998566561,
       "title": "Lo zen nell'arte della scrittura. Libera il genio creativo che è in te",
