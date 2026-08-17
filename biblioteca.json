@@ -1,7 +1,33 @@
 {
   "version": 2,
-  "updated": "2026-08-17T18:10:59.140Z",
+  "updated": "2026-08-17T18:16:19.386Z",
   "books": [
+    {
+      "id": 1786990568551,
+      "title": "Accendi le tue idee",
+      "author": "Austin Kleon",
+      "year": "2020",
+      "isbn": "9788855051903",
+      "category": "",
+      "location": "",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=Rd7AzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "id": 1786990274308,
+      "title": "Semina come un artista",
+      "author": "Austin Kleon",
+      "year": "2014",
+      "isbn": "9788867315239",
+      "category": "",
+      "location": "File",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=ZqgBoQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1786990258542,
       "title": "Ruba come un artista",
