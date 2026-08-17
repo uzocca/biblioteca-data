@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-17T18:00:03.653Z",
+  "updated": "2026-08-17T18:00:40.798Z",
   "books": [
+    {
+      "id": 1786989639125,
+      "title": "Tecniche per produrre idee",
+      "author": "James Webb Young",
+      "year": "1986",
+      "isbn": "9788885838062",
+      "category": "",
+      "location": "",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": ""
+    },
     {
       "id": 1786989603117,
       "title": "Farsi capire",
