@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-17T21:10:16.758Z",
+  "updated": "2026-08-17T21:15:30.038Z",
   "books": [
+    {
+      "id": 1787001329351,
+      "title": "Decalogo della complessità. Agire, apprendere e adattarsi nell'incessante divenire del mondo",
+      "author": "Alberto Felice De Toni",
+      "year": "2024",
+      "isbn": "9788862509053",
+      "category": "",
+      "location": "",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "File",
+      "coverUrl": "https://books.google.com/books/content?id=XBCo0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1787001015873,
       "title": "Pensare per sistemi",
