@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-17T20:32:45.265Z",
+  "updated": "2026-08-17T20:43:52.688Z",
   "books": [
+    {
+      "id": 1786999431810,
+      "title": "Good to Great. Come si vince la mediocrità e si raggiunge l'eccellenza",
+      "author": "Jim Collins",
+      "year": "2022",
+      "isbn": "9788804740629",
+      "category": "",
+      "location": "File",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=mm8KzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1786998764573,
       "title": "Curarsi con i libri. Rimedi letterari per ogni malanno",
