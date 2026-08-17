@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-17T18:16:19.386Z",
+  "updated": "2026-08-17T20:16:17.548Z",
   "books": [
+    {
+      "id": 1786997776473,
+      "title": "642 idee per scrivere",
+      "author": "San Francisco Writer's Grotto",
+      "year": "2016",
+      "isbn": "9788867222360",
+      "category": "",
+      "location": "",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=Vj8GMQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1786990568551,
       "title": "Accendi le tue idee",
