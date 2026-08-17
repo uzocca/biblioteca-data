@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-17T20:19:56.234Z",
+  "updated": "2026-08-17T20:22:29.968Z",
   "books": [
+    {
+      "id": 1786998149276,
+      "title": "Story or die. O racconti o sei fuori. Fare storytelling coinvolgente e persuasivo con le neuroscienze",
+      "author": "Lisa Cron",
+      "year": "2021",
+      "isbn": "9791280606068",
+      "category": "",
+      "location": "File",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=Vre6zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1786997995591,
       "title": "La via dell'artista. Come ascoltare e far crescere l'artista che è in noi",
