@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-17T18:02:52.898Z",
+  "updated": "2026-08-17T18:10:39.991Z",
   "books": [
+    {
+      "id": 1786990239085,
+      "title": "Non pensare all'elefante!",
+      "author": "George Lakoff",
+      "year": "2006",
+      "isbn": "9788889674154",
+      "category": "",
+      "location": "File",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=uqVHAgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1786989768590,
       "title": "Il mestiere di scrivere. Le parole al lavoro, tra carta e web",
