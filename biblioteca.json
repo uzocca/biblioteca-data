@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-17T20:22:29.968Z",
+  "updated": "2026-08-17T20:23:37.757Z",
   "books": [
+    {
+      "id": 1786998216966,
+      "title": "The Talks - No Idea Is Final",
+      "author": "Sven Schumann, Johannes Bonke",
+      "year": "2021",
+      "isbn": "",
+      "category": "",
+      "location": "",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=PdRzzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1786998149276,
       "title": "Story or die. O racconti o sei fuori. Fare storytelling coinvolgente e persuasivo con le neuroscienze",
