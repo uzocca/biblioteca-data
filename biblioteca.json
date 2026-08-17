@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-17T18:10:39.991Z",
+  "updated": "2026-08-17T18:10:59.140Z",
   "books": [
+    {
+      "id": 1786990258542,
+      "title": "Ruba come un artista",
+      "author": "Austin Kleon",
+      "year": "2013",
+      "isbn": "9788867310333",
+      "category": "",
+      "location": "File",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=yW-eMQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1786990239085,
       "title": "Non pensare all'elefante!",
