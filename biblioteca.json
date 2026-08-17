@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-17T20:23:37.757Z",
+  "updated": "2026-08-17T20:25:24.278Z",
   "books": [
+    {
+      "id": 1786998323409,
+      "title": "Sedotti dalle storie. Usi e abusi della narrazione",
+      "author": "Peter Brooks",
+      "year": "2023",
+      "isbn": "9788829020577",
+      "category": "",
+      "location": "File",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=aesn0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1786998216966,
       "title": "The Talks - No Idea Is Final",
