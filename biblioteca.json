@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-17T20:31:33.749Z",
+  "updated": "2026-08-17T20:32:45.265Z",
   "books": [
+    {
+      "id": 1786998764573,
+      "title": "Curarsi con i libri. Rimedi letterari per ogni malanno",
+      "author": "Ella Berthoud, Susan Elderkin",
+      "year": "2016",
+      "isbn": "9788838935800",
+      "category": "",
+      "location": "File",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=mLBQDQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1786998693058,
       "title": "Il nuovo libro della comunicazione. Che cosa significa comunicare: idee, tecnologie, strumenti, modelli",
