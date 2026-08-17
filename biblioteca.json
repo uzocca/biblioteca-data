@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-17T20:25:45.377Z",
+  "updated": "2026-08-17T20:26:28.915Z",
   "books": [
+    {
+      "id": 1786998388300,
+      "title": "Questo è il fuoco. Manuale di scrittura",
+      "author": "Scuola Holden",
+      "year": "2025",
+      "isbn": "",
+      "category": "",
+      "location": "",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=YZ0t0QEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1786998344776,
       "title": "Testi che parlano. Il tono di voce nei testi aziendali",
