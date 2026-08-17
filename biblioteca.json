@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-17T20:16:40.592Z",
+  "updated": "2026-08-17T20:19:56.234Z",
   "books": [
+    {
+      "id": 1786997995591,
+      "title": "La via dell'artista. Come ascoltare e far crescere l'artista che è in noi",
+      "author": "Julia Cameron",
+      "year": "1998",
+      "isbn": "9788830414433",
+      "category": "",
+      "location": "File",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=PHqwAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1786997776473,
       "title": "642 idee per scrivere",
