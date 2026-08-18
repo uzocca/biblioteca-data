@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-18T12:57:29.926Z",
+  "updated": "2026-08-18T12:57:44.628Z",
   "books": [
+    {
+      "id": 1787057864248,
+      "title": "Rivoluzione OKR. Scopri il metodo degli obiettivi e risultati chiave, per misurare quello che conta davvero",
+      "author": "John Doerr",
+      "year": "2019",
+      "isbn": "9788868957049",
+      "category": "",
+      "location": "File",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=Yk4hxAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1787057849416,
       "title": "OKR for all. Allineare strategia e persone nella vostra organizzazione",
