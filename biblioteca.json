@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-08-18T21:48:48.643Z",
+  "updated": "2026-08-18T22:08:10.983Z",
   "books": [
     {
       "id": 1787057880509,
@@ -1179,7 +1179,7 @@
       "year": "2012",
       "isbn": "9788878878297",
       "category": "Self",
-      "location": "",
+      "location": "file",
       "status": "daLeggere",
       "rating": 0,
       "notes": "",
