@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-18T13:07:20.889Z",
+  "updated": "2026-08-18T13:07:51.183Z",
   "books": [
+    {
+      "id": 1787058470680,
+      "title": "Alternative. Aspira al meglio, preparati al peggio e tieni sempre pronto un piano B",
+      "author": "Sebastiano Zanolli",
+      "year": "2019",
+      "isbn": "9788885493728",
+      "category": "",
+      "location": "File",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=pCf-ygEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1787058440138,
       "title": "Negoziare il non negoziabile. Come risolvere i conflitti più emotivamente carichi",
