@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-18T12:57:13.024Z",
+  "updated": "2026-08-18T12:57:29.926Z",
   "books": [
+    {
+      "id": 1787057849416,
+      "title": "OKR for all. Allineare strategia e persone nella vostra organizzazione",
+      "author": "Vetri Vellore",
+      "year": "2023",
+      "isbn": "9791280359667",
+      "category": "",
+      "location": "File",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=Zrs90AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1787057832541,
       "title": "Fiducia e ispirazione. Come i veri leader liberano la grandezza negli altri",
