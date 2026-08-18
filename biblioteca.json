@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-08-18T22:08:10.983Z",
+  "updated": "2026-08-18T22:08:22.717Z",
   "books": [
     {
       "id": 1787057880509,
@@ -1192,7 +1192,7 @@
       "year": "2014",
       "isbn": "9788867314232",
       "category": "Self",
-      "location": "",
+      "location": "file",
       "status": "daLeggere",
       "rating": 0,
       "notes": "",
