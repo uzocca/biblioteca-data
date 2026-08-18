@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-08-18T21:39:21.914Z",
+  "updated": "2026-08-18T21:41:25.042Z",
   "books": [
     {
       "id": 1787057880509,
@@ -1010,7 +1010,7 @@
       "year": "2008",
       "isbn": "9788874967353",
       "category": "Self",
-      "location": "",
+      "location": "file",
       "status": "daLeggere",
       "rating": 0,
       "notes": "",
