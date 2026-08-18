@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-18T12:57:44.628Z",
+  "updated": "2026-08-18T12:58:00.975Z",
   "books": [
+    {
+      "id": 1787057880509,
+      "title": "OKR Performance. Centra gli obiettivi della tua organizzazione",
+      "author": "Francesco Frugiuele, Matteo Sola",
+      "year": "2021",
+      "isbn": "9791280359049",
+      "category": "",
+      "location": "File",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=xtt3zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1787057864248,
       "title": "Rivoluzione OKR. Scopri il metodo degli obiettivi e risultati chiave, per misurare quello che conta davvero",
