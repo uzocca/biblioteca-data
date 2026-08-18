@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-08-18T21:10:52.779Z",
+  "updated": "2026-08-18T21:11:27.084Z",
   "books": [
     {
       "id": 1787057880509,
@@ -1140,7 +1140,7 @@
       "year": "2006",
       "isbn": "9788888612409",
       "category": "Self",
-      "location": "",
+      "location": "file",
       "status": "daLeggere",
       "rating": 0,
       "notes": "",
