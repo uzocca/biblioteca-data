@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-08-18T21:19:33.486Z",
+  "updated": "2026-08-18T21:23:44.430Z",
   "books": [
     {
       "id": 1787057880509,
@@ -776,7 +776,7 @@
       "year": "2008",
       "isbn": "9788860521477",
       "category": "Self",
-      "location": "",
+      "location": "file",
       "status": "daLeggere",
       "rating": 0,
       "notes": "",
