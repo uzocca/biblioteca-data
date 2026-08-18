@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-08-18T21:11:27.084Z",
+  "updated": "2026-08-18T21:12:45.663Z",
   "books": [
     {
       "id": 1787057880509,
@@ -1075,7 +1075,7 @@
       "year": "2007",
       "isbn": "9788861920095",
       "category": "Self",
-      "location": "",
+      "location": "file",
       "status": "daLeggere",
       "rating": 0,
       "notes": "",
