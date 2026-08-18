@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-18T13:07:51.183Z",
+  "updated": "2026-08-18T13:08:22.205Z",
   "books": [
+    {
+      "id": 1787058501580,
+      "title": "Il coaching che funziona. Strumenti di crescita per essere e fare meglio",
+      "author": "Claudio Belotti",
+      "year": "2025",
+      "isbn": "9788836202485",
+      "category": "",
+      "location": "File",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=bJ9X0QEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1787058470680,
       "title": "Alternative. Aspira al meglio, preparati al peggio e tieni sempre pronto un piano B",
