@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-08-18T21:14:24.758Z",
+  "updated": "2026-08-18T21:16:17.318Z",
   "books": [
     {
       "id": 1787057880509,
@@ -997,7 +997,7 @@
       "year": "1999",
       "isbn": "9788817112994",
       "category": "Self",
-      "location": "",
+      "location": "file",
       "status": "daLeggere",
       "rating": 0,
       "notes": "",
