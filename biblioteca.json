@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-08-18T21:26:13.609Z",
+  "updated": "2026-08-18T21:37:58.413Z",
   "books": [
     {
       "id": 1787057880509,
@@ -828,7 +828,7 @@
       "year": "2007",
       "isbn": "9788850214693",
       "category": "Self",
-      "location": "",
+      "location": "file",
       "status": "daLeggere",
       "rating": 0,
       "notes": "",
