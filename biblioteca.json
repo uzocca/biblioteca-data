@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-08-18T21:44:17.508Z",
+  "updated": "2026-08-18T21:45:46.697Z",
   "books": [
     {
       "id": 1787057880509,
@@ -984,7 +984,7 @@
       "year": "1998",
       "isbn": "9788871878973",
       "category": "Self",
-      "location": "",
+      "location": "file",
       "status": "daLeggere",
       "rating": 0,
       "notes": "",
