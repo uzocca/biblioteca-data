@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-18T12:58:00.975Z",
+  "updated": "2026-08-18T13:05:20.877Z",
   "books": [
+    {
+      "id": 1787058320178,
+      "title": "Buona strategia cattiva strategia",
+      "author": "Richard Rumelt",
+      "year": "2025",
+      "isbn": "9788850339174",
+      "category": "",
+      "location": "File",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=FaWX0QEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1787057880509,
       "title": "OKR Performance. Centra gli obiettivi della tua organizzazione",
