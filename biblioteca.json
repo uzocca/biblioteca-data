@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-08-18T21:08:12.880Z",
+  "updated": "2026-08-18T21:10:52.779Z",
   "books": [
     {
       "id": 1787057880509,
@@ -1153,7 +1153,7 @@
       "year": "2005",
       "isbn": "9788845412691",
       "category": "Self",
-      "location": "",
+      "location": "file",
       "status": "daLeggere",
       "rating": 0,
       "notes": "",
