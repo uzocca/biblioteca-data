@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-08-18T21:12:45.663Z",
+  "updated": "2026-08-18T21:14:24.758Z",
   "books": [
     {
       "id": 1787057880509,
@@ -1036,7 +1036,7 @@
       "year": "1990",
       "isbn": "9788845215254",
       "category": "Self",
-      "location": "",
+      "location": "file",
       "status": "daLeggere",
       "rating": 0,
       "notes": "",
