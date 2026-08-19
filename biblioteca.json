@@ -1,20 +1,7 @@
 {
   "version": 2,
-  "updated": "2026-08-19T14:04:10.426Z",
+  "updated": "2026-08-19T14:04:20.904Z",
   "books": [
-    {
-      "id": 1787148249779,
-      "title": "Il sogno",
-      "author": "Ignazio Majore",
-      "year": "2003",
-      "isbn": "9788834013588",
-      "category": "",
-      "location": "File",
-      "status": "daLeggere",
-      "rating": 0,
-      "notes": "",
-      "coverUrl": ""
-    },
     {
       "id": 1787148229308,
       "title": "Il fattore Einstein. Tecniche per liberare il genio personale",
