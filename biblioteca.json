@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-19T14:03:21.176Z",
+  "updated": "2026-08-19T14:03:36.709Z",
   "books": [
+    {
+      "id": 1787148216298,
+      "title": "Simplify your life. Vivere in modo più facile e più felice",
+      "author": "Werner T. Küstenmacher, Lothar J. Seiwert",
+      "year": "2004",
+      "isbn": "9788821551369",
+      "category": "",
+      "location": "File",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=-qZQAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1787148200603,
       "title": "Nati per vincere. Analisi transazionale con esercizi di Gestalt",
