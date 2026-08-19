@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-19T14:05:22.205Z",
+  "updated": "2026-08-19T14:05:37.449Z",
   "books": [
+    {
+      "id": 1787148336691,
+      "title": "Coaching per l'imprenditore e il professionista. Le nuove strategie di successo per stimolare la crescita professionale",
+      "author": "Brian Tracy, Campbell Fraser",
+      "year": "2009",
+      "isbn": "9788888612706",
+      "category": "",
+      "location": "File",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=SNqZPgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1787148321391,
       "title": "Imparando a imparare",
