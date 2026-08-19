@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-19T14:04:50.314Z",
+  "updated": "2026-08-19T14:05:22.205Z",
   "books": [
+    {
+      "id": 1787148321391,
+      "title": "Imparando a imparare",
+      "author": "Joseph Donald Novak, Bob D. Gowin",
+      "year": "2001",
+      "isbn": "9788805058624",
+      "category": "",
+      "location": "File",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": ""
+    },
     {
       "id": 1787148289688,
       "title": "Chi è seduto sulla sedia del capo?",
