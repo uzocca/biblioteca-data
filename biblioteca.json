@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-19T14:04:20.904Z",
+  "updated": "2026-08-19T14:04:50.314Z",
   "books": [
+    {
+      "id": 1787148289688,
+      "title": "Chi è seduto sulla sedia del capo?",
+      "author": "Richard Conniff",
+      "year": "2006",
+      "isbn": "9788820041076",
+      "category": "",
+      "location": "File",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=bXuRAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1787148229308,
       "title": "Il fattore Einstein. Tecniche per liberare il genio personale",
