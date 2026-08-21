@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-21T13:32:34.420Z",
+  "updated": "2026-08-21T13:32:45.778Z",
   "books": [
+    {
+      "id": 1787319165332,
+      "title": "Le regole del caso: istruzioni per l'uso",
+      "author": "Jeffrey S. Rosenthal",
+      "year": "2006",
+      "isbn": "9788830423701",
+      "category": "",
+      "location": "",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=-aYAPgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1787319153976,
       "title": "Chance. Dai giochi d'azzardo agli affari (di cuore)",
