@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-08-21T13:32:59.991Z",
+  "updated": "2026-08-21T13:36:01.878Z",
   "books": [
     {
       "id": 1787319179355,
@@ -9,7 +9,7 @@
       "year": "2008",
       "isbn": "9788856500615",
       "category": "",
-      "location": "",
+      "location": "file",
       "status": "daLeggere",
       "rating": 0,
       "notes": "",
