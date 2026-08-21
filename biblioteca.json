@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-08-21T20:15:21.856Z",
+  "updated": "2026-08-21T20:15:56.052Z",
   "books": [
     {
       "id": 1787333905369,
@@ -243,7 +243,7 @@
       "year": "2006",
       "isbn": "9788817009904",
       "category": "",
-      "location": "",
+      "location": "file",
       "status": "daLeggere",
       "rating": 0,
       "notes": "",
