@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-08-21T13:37:44.335Z",
+  "updated": "2026-08-21T13:38:23.053Z",
   "books": [
     {
       "id": 1787319179355,
@@ -152,7 +152,7 @@
       "year": "2022",
       "isbn": "9788855231534",
       "category": "",
-      "location": "",
+      "location": "file",
       "status": "daLeggere",
       "rating": 0,
       "notes": "",
