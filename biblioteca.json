@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-08-21T13:38:44.145Z",
+  "updated": "2026-08-21T13:39:32.111Z",
   "books": [
     {
       "id": 1787319179355,
@@ -217,7 +217,7 @@
       "year": "2024",
       "isbn": "9788806260088",
       "category": "",
-      "location": "",
+      "location": "file",
       "status": "daLeggere",
       "rating": 0,
       "notes": "",
