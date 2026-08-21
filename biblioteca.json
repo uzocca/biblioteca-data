@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-21T13:31:31.548Z",
+  "updated": "2026-08-21T13:31:53.644Z",
   "books": [
+    {
+      "id": 1787319113115,
+      "title": "The project. L'inchiesta sul piano che sta ridisegnando l'America e il mondo",
+      "author": "David A. Graham",
+      "year": "2025",
+      "isbn": "9788832967005",
+      "category": "",
+      "location": "",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=04t20QEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1787319072152,
       "title": "Ragionare meglio per vivere meglio. Errori cognitivi e come evitarli",
