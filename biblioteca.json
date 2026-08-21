@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-21T17:35:32.801Z",
+  "updated": "2026-08-21T17:35:41.151Z",
   "books": [
+    {
+      "id": 1787333740533,
+      "title": "Disuguaglianza. Che cosa si può fare",
+      "author": "Anthony B. Atkinson",
+      "year": "2015",
+      "isbn": "9788860307880",
+      "category": "",
+      "location": "",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=XSsBjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1787333732334,
       "title": "Antimanuale di economia",
