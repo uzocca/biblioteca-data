@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-21T17:38:08.245Z",
+  "updated": "2026-08-21T17:38:18.240Z",
   "books": [
+    {
+      "id": 1787333897644,
+      "title": "Nexus. Breve storia delle reti di informazione dall'età della pietra all'IA",
+      "author": "Yuval Noah Harari",
+      "year": "2024",
+      "isbn": "9788830137998",
+      "category": "",
+      "location": "",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=lmzj0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1787333887630,
       "title": "Nexus. Perché la natura, la società, l'economia, la comunicazione funzionano allo stesso modo",
