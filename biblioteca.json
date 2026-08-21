@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-08-21T13:55:32.696Z",
+  "updated": "2026-08-21T14:04:24.205Z",
   "books": [
     {
       "id": 1787319179355,
@@ -191,10 +191,10 @@
       "year": "2006",
       "isbn": "9788861593107",
       "category": "",
-      "location": "",
+      "location": "file",
       "status": "daLeggere",
       "rating": 0,
-      "notes": "",
+      "notes": "the fall of public man",
       "coverUrl": "https://books.google.com/books/content?id=Ar9TPgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     },
     {
