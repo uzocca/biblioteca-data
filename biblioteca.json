@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-21T13:26:57.067Z",
+  "updated": "2026-08-21T13:27:11.389Z",
   "books": [
+    {
+      "id": 1787318830960,
+      "title": "Dall'illusione dell'abbondanza all'economia dell'abbastanza",
+      "author": "M. Deaglio",
+      "year": "2023",
+      "isbn": "9788862508889",
+      "category": "",
+      "location": "",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=uh_5zwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1787318816559,
       "title": "Gli imperi non vogliono morire",
