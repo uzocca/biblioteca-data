@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-21T13:28:09.341Z",
+  "updated": "2026-08-21T13:28:27.070Z",
   "books": [
+    {
+      "id": 1787318906547,
+      "title": "Non è la fine del mondo. Come possiamo costruire un pianeta sostenibile",
+      "author": "Hannah Ritchie",
+      "year": "2024",
+      "isbn": "9788855232609",
+      "category": "",
+      "location": "",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=weGu0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1787318888920,
       "title": "Come le nazioni possono sconfiggere la povertà",
