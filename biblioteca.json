@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-21T17:37:40.635Z",
+  "updated": "2026-08-21T17:38:01.726Z",
   "books": [
+    {
+      "id": 1787333881226,
+      "title": "Appiattimento del mondo. La crisi della cultura e il dominio della norma",
+      "author": "Olivier Roy",
+      "year": "2024",
+      "isbn": "9788807105807",
+      "category": "",
+      "location": "",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=3bjj0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1787333860054,
       "title": "Vendetta. Come Putin ha creato il regime più temibile al mondo",
