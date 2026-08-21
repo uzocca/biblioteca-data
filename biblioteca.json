@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-08-21T14:05:43.069Z",
+  "updated": "2026-08-21T14:10:11.775Z",
   "books": [
     {
       "id": 1787319179355,
@@ -74,7 +74,7 @@
       "year": "2026",
       "isbn": "9788832858891",
       "category": "",
-      "location": "",
+      "location": "file",
       "status": "daLeggere",
       "rating": 0,
       "notes": "",
