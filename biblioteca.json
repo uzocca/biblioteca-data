@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-21T13:24:11.224Z",
+  "updated": "2026-08-21T13:25:01.150Z",
   "books": [
+    {
+      "id": 1787318700437,
+      "title": "Shock da libertà",
+      "author": "Ilko-Sascha Kowalczuk",
+      "year": "2025",
+      "isbn": "",
+      "category": "",
+      "location": "",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=aFZMEQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1787318650694,
       "title": "Punto zero",
