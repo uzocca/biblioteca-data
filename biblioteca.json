@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-08-21T13:36:01.878Z",
+  "updated": "2026-08-21T13:37:23.926Z",
   "books": [
     {
       "id": 1787319179355,
@@ -100,7 +100,7 @@
       "year": "2023",
       "isbn": "",
       "category": "",
-      "location": "",
+      "location": "file",
       "status": "daLeggere",
       "rating": 0,
       "notes": "",
