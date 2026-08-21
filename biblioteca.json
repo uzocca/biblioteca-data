@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-21T17:35:52.169Z",
+  "updated": "2026-08-21T17:36:21.292Z",
   "books": [
+    {
+      "id": 1787333780763,
+      "title": "Micromotivazioni della vita quotidiana",
+      "author": "Thomas C. Schelling",
+      "year": "2008",
+      "isbn": "9788845261145",
+      "category": "",
+      "location": "",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=2GflMQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1787333751563,
       "title": "Illuminismo adesso. In difesa della ragione, della scienza, dell'umanesimo e del progresso",
