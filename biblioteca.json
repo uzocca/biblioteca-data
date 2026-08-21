@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-21T13:31:53.644Z",
+  "updated": "2026-08-21T13:32:04.386Z",
   "books": [
+    {
+      "id": 1787319123884,
+      "title": "Necessità della politica",
+      "author": "Carlo Galli",
+      "year": "2026",
+      "isbn": "9788832858891",
+      "category": "",
+      "location": "",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=yGgW0gEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1787319113115,
       "title": "The project. L'inchiesta sul piano che sta ridisegnando l'America e il mondo",
