@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-21T17:35:16.987Z",
+  "updated": "2026-08-21T17:35:24.567Z",
   "books": [
+    {
+      "id": 1787333724145,
+      "title": "Chi ha e chi non ha. Storie di disuguaglianze",
+      "author": "Branko Milanovic",
+      "year": "2012",
+      "isbn": "9788815240323",
+      "category": "",
+      "location": "",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=MutVLwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1787333716510,
       "title": "No crac. Scopri l'economista che è in te",
