@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-08-21T13:51:59.628Z",
+  "updated": "2026-08-21T13:54:06.929Z",
   "books": [
     {
       "id": 1787319179355,
@@ -269,10 +269,10 @@
       "year": "1998",
       "isbn": "9788833910727",
       "category": "",
-      "location": "",
+      "location": "file",
       "status": "daLeggere",
       "rating": 0,
-      "notes": "",
+      "notes": "l'economie solidaire",
       "coverUrl": "https://books.google.com/books/content?id=xK1nAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     },
     {
