@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-21T17:34:49.601Z",
+  "updated": "2026-08-21T17:35:16.987Z",
   "books": [
+    {
+      "id": 1787333716510,
+      "title": "No crac. Scopri l'economista che è in te",
+      "author": "Tyler Cowen",
+      "year": "2008",
+      "isbn": "9788873941040",
+      "category": "",
+      "location": "",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=PcaFLQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1787333689022,
       "title": "Non solo per denaro",
