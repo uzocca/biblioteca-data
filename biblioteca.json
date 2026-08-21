@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-21T17:36:38.526Z",
+  "updated": "2026-08-21T17:36:46.037Z",
   "books": [
+    {
+      "id": 1787333805420,
+      "title": "L'economia spiegata a un figlio",
+      "author": "Fabrizio Galimberti",
+      "year": "2006",
+      "isbn": "9788842080282",
+      "category": "",
+      "location": "",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=IIwWPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1787333797750,
       "title": "Freakonomics. Il calcolo dell'incalcolabile",
