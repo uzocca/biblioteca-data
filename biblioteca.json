@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-21T13:25:47.253Z",
+  "updated": "2026-08-21T13:26:00.896Z",
   "books": [
+    {
+      "id": 1787318760423,
+      "title": "Small data. I piccoli indizi che svelano i grandi trend. Capire i desideri nascosti dei tuoi clienti",
+      "author": "Martin Lindstrom",
+      "year": "2019",
+      "isbn": "9788820389598",
+      "category": "",
+      "location": "",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=nxchwwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1787318746638,
       "title": "Contro natura",
