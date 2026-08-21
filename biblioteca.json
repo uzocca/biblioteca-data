@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-08-21T13:54:06.929Z",
+  "updated": "2026-08-21T13:55:32.696Z",
   "books": [
     {
       "id": 1787319179355,
@@ -256,7 +256,7 @@
       "year": "2025",
       "isbn": "9788804803591",
       "category": "",
-      "location": "",
+      "location": "file",
       "status": "daLeggere",
       "rating": 0,
       "notes": "",
