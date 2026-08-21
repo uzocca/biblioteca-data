@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-21T13:29:47.110Z",
+  "updated": "2026-08-21T13:31:12.765Z",
   "books": [
+    {
+      "id": 1787319072152,
+      "title": "Ragionare meglio per vivere meglio. Errori cognitivi e come evitarli",
+      "author": "Woo-kyoung Ahn",
+      "year": "2023",
+      "isbn": "",
+      "category": "",
+      "location": "",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=A8WuzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1787318986572,
       "title": "L'arte di respirare. La nuova scienza per rieducare un gesto naturale",
