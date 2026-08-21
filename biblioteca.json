@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-08-21T20:18:27.116Z",
+  "updated": "2026-08-21T20:19:58.185Z",
   "books": [
     {
       "id": 1787333905369,
@@ -204,7 +204,7 @@
       "year": "2012",
       "isbn": "9788815240323",
       "category": "",
-      "location": "",
+      "location": "file",
       "status": "daLeggere",
       "rating": 0,
       "notes": "",
