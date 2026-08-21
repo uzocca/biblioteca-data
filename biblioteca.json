@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-21T13:26:39.474Z",
+  "updated": "2026-08-21T13:26:57.067Z",
   "books": [
+    {
+      "id": 1787318816559,
+      "title": "Gli imperi non vogliono morire",
+      "author": "Luca Lovisolo",
+      "year": "2025",
+      "isbn": "9798310090293",
+      "category": "",
+      "location": "",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": ""
+    },
     {
       "id": 1787318798595,
       "title": "Senza giri di parole. La verità sulle sfide economiche e sociali del nostro futuro",
