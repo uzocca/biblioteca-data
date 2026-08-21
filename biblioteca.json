@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-21T13:27:50.192Z",
+  "updated": "2026-08-21T13:28:09.341Z",
   "books": [
+    {
+      "id": 1787318888920,
+      "title": "Come le nazioni possono sconfiggere la povertà",
+      "author": "Rainer Zitelmann",
+      "year": "2025",
+      "isbn": "9791254942147",
+      "category": "",
+      "location": "",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=YBk80QEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1787318869765,
       "title": "Il declino dell'uomo pubblico",
