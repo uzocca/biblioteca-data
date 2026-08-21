@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-08-21T20:23:24.734Z",
+  "updated": "2026-08-21T20:25:35.940Z",
   "books": [
     {
       "id": 1787333905369,
@@ -139,7 +139,7 @@
       "year": "2010",
       "isbn": "9788807171932",
       "category": "",
-      "location": "",
+      "location": "file",
       "status": "daLeggere",
       "rating": 0,
       "notes": "",
