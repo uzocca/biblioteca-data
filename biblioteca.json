@@ -1,20 +1,7 @@
 {
   "version": 2,
-  "updated": "2026-08-21T13:31:23.548Z",
+  "updated": "2026-08-21T13:31:31.548Z",
   "books": [
-    {
-      "id": 1787319083022,
-      "title": "Ragionare meglio per vivere meglio. Errori cognitivi e come ...",
-      "author": "",
-      "year": "",
-      "isbn": "",
-      "category": "",
-      "location": "",
-      "status": "daLeggere",
-      "rating": 0,
-      "notes": "",
-      "coverUrl": ""
-    },
     {
       "id": 1787319072152,
       "title": "Ragionare meglio per vivere meglio. Errori cognitivi e come evitarli",
