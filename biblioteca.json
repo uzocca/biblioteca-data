@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-19T14:06:07.928Z",
+  "updated": "2026-08-21T13:23:47.367Z",
   "books": [
+    {
+      "id": 1787318626792,
+      "title": "Il passato di un'illusione. L'idea comunista nel XX secolo",
+      "author": "François Furet",
+      "year": "2024",
+      "isbn": "9791256680061",
+      "category": "",
+      "location": "",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=I8Th0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1787148367436,
       "title": "PNL per il problem solving",
