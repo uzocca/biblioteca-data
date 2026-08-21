@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-08-21T14:10:11.775Z",
+  "updated": "2026-08-21T14:12:14.776Z",
   "books": [
     {
       "id": 1787319179355,
@@ -48,7 +48,7 @@
       "year": "2012",
       "isbn": "9788806211004",
       "category": "",
-      "location": "",
+      "location": "file",
       "status": "daLeggere",
       "rating": 0,
       "notes": "",
