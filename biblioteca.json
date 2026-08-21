@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-08-21T20:21:45.613Z",
+  "updated": "2026-08-21T20:22:53.371Z",
   "books": [
     {
       "id": 1787333905369,
@@ -165,7 +165,7 @@
       "year": "2020",
       "isbn": "9788804727880",
       "category": "",
-      "location": "",
+      "location": "file",
       "status": "daLeggere",
       "rating": 0,
       "notes": "",
