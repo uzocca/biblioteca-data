@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-08-21T20:22:53.371Z",
+  "updated": "2026-08-21T20:23:24.734Z",
   "books": [
     {
       "id": 1787333905369,
@@ -152,7 +152,7 @@
       "year": "2008",
       "isbn": "9788845261145",
       "category": "",
-      "location": "",
+      "location": "file",
       "status": "daLeggere",
       "rating": 0,
       "notes": "",
