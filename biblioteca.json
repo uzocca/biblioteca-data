@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-21T13:27:30.799Z",
+  "updated": "2026-08-21T13:27:50.192Z",
   "books": [
+    {
+      "id": 1787318869765,
+      "title": "Il declino dell'uomo pubblico",
+      "author": "Richard Sennett",
+      "year": "2006",
+      "isbn": "9788861593107",
+      "category": "",
+      "location": "",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=Ar9TPgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1787318850355,
       "title": "Il destino dei popoli. Come l'umanità ha fatto la storia e creato il nostro tempo",
