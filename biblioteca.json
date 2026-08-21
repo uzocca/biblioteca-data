@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-08-21T13:46:24.867Z",
+  "updated": "2026-08-21T13:49:32.363Z",
   "books": [
     {
       "id": 1787319179355,
@@ -321,10 +321,10 @@
       "year": "2007",
       "isbn": "9788817015332",
       "category": "",
-      "location": "",
+      "location": "file",
       "status": "daLeggere",
       "rating": 0,
-      "notes": "",
+      "notes": "a perfect mess",
       "coverUrl": "https://books.google.com/books/content?id=bwOpGQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     },
     {
