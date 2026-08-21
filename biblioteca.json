@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-21T17:38:01.726Z",
+  "updated": "2026-08-21T17:38:08.245Z",
   "books": [
+    {
+      "id": 1787333887630,
+      "title": "Nexus. Perché la natura, la società, l'economia, la comunicazione funzionano allo stesso modo",
+      "author": "Mark Buchanan",
+      "year": "2003",
+      "isbn": "9788804512516",
+      "category": "",
+      "location": "",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=O63YPAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1787333881226,
       "title": "Appiattimento del mondo. La crisi della cultura e il dominio della norma",
