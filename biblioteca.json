@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-21T13:28:32.921Z",
+  "updated": "2026-08-21T13:29:16.400Z",
   "books": [
+    {
+      "id": 1787318955789,
+      "title": "I profeti dell'Apocalisse",
+      "author": "Giancarlo Genta, Paolo Riberi",
+      "year": "2024",
+      "isbn": "",
+      "category": "",
+      "location": "",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=weMdEQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1787318912366,
       "title": "La sfida del bene comune. Come riconoscere e promuovere i valori democratici di una comunità",
