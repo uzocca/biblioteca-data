@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-08-21T14:14:17.645Z",
+  "updated": "2026-08-21T14:20:08.971Z",
   "books": [
     {
       "id": 1787319179355,
@@ -22,7 +22,7 @@
       "year": "2006",
       "isbn": "9788830423701",
       "category": "",
-      "location": "",
+      "location": "file",
       "status": "daLeggere",
       "rating": 0,
       "notes": "",
