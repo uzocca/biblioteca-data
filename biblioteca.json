@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-21T17:36:57.198Z",
+  "updated": "2026-08-21T17:37:11.068Z",
   "books": [
+    {
+      "id": 1787333830444,
+      "title": "L'economista mascherato. L'insospettabile logica che fa muovere i soldi",
+      "author": "Tim Harford",
+      "year": "2007",
+      "isbn": "9788817016469",
+      "category": "",
+      "location": "",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=W0HLPQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1787333816682,
       "title": "Wikinomics. La collaborazione di massa che sta cambiando il mondo",
