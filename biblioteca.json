@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-21T13:24:00.588Z",
+  "updated": "2026-08-21T13:24:11.224Z",
   "books": [
+    {
+      "id": 1787318650694,
+      "title": "Punto zero",
+      "author": "Slavoj Zizek",
+      "year": "2026",
+      "isbn": "9788842836834",
+      "category": "",
+      "location": "",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=FXv-0QEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1787318640052,
       "title": "A scuola di declino. La mentalità anticapitalista nei manuali scolastici",
