@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-21T17:36:46.037Z",
+  "updated": "2026-08-21T17:36:57.198Z",
   "books": [
+    {
+      "id": 1787333816682,
+      "title": "Wikinomics. La collaborazione di massa che sta cambiando il mondo",
+      "author": "Don Tapscott, Anthony D. Williams",
+      "year": "2007",
+      "isbn": "9788845313844",
+      "category": "",
+      "location": "",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=6PWXGAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1787333805420,
       "title": "L'economia spiegata a un figlio",
