@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-08-21T20:15:56.052Z",
+  "updated": "2026-08-21T20:18:27.116Z",
   "books": [
     {
       "id": 1787333905369,
@@ -217,7 +217,7 @@
       "year": "2008",
       "isbn": "9788873941040",
       "category": "",
-      "location": "",
+      "location": "file",
       "status": "daLeggere",
       "rating": 0,
       "notes": "",
