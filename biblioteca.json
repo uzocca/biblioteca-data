@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-21T13:29:16.400Z",
+  "updated": "2026-08-21T13:29:32.667Z",
   "books": [
+    {
+      "id": 1787318971900,
+      "title": "Per un nuovo capitalismo. Creare ricchezza economica, sociale e ambientale per il mondo di domani",
+      "author": "John Elkington",
+      "year": "2021",
+      "isbn": "9788855230827",
+      "category": "",
+      "location": "",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=Vr05zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1787318955789,
       "title": "I profeti dell'Apocalisse",
