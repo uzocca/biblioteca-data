@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-26T12:05:31.477Z",
+  "updated": "2026-08-26T12:05:41.491Z",
   "books": [
+    {
+      "id": 1787745940603,
+      "title": "L'importanza di essere creativi. 50 giochi ed esercizi per rafforzare la creatività nella professione",
+      "author": "ugene Randsepp",
+      "year": "1993",
+      "isbn": "9788820434724",
+      "category": "",
+      "location": "",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": ""
+    },
     {
       "id": 1787745930733,
       "title": "L'arte della creativity",
