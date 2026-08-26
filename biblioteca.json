@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-26T11:49:36.639Z",
+  "updated": "2026-08-26T11:50:29.207Z",
   "books": [
+    {
+      "id": 1787745028416,
+      "title": "Dell'arte del tacere. Il management della comunicazione",
+      "author": "Leon Woods",
+      "year": "2000",
+      "isbn": "9788844017910",
+      "category": "",
+      "location": "",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=3xZPPQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1787744975859,
       "title": "Ottantatré giochi psicologici per la conduzione dei gruppi. Un manuale per psicologi, insegnanti, operatori sociali, animatori...",
