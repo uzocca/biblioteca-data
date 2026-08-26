@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-08-26T12:05:41.491Z",
+  "updated": "2026-08-26T12:26:44.045Z",
   "books": [
     {
       "id": 1787745940603,
@@ -170,19 +170,6 @@
       "rating": 0,
       "notes": "",
       "coverUrl": ""
-    },
-    {
-      "id": 1787745582170,
-      "title": "Esperti di troppo. Il paradosso delle professioni disabilitanti",
-      "author": "Ivan Illich",
-      "year": "2008",
-      "isbn": "9788861373105",
-      "category": "",
-      "location": "",
-      "status": "daLeggere",
-      "rating": 0,
-      "notes": "",
-      "coverUrl": "https://books.google.com/books/content?id=FPPALxJ2aXkC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     },
     {
       "id": 1787745569655,
