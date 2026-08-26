@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-26T12:01:11.865Z",
+  "updated": "2026-08-26T12:01:23.122Z",
   "books": [
+    {
+      "id": 1787745682215,
+      "title": "L'arte del possibile. Diventare gli artefici del proprio successo",
+      "author": "Rosamund Stone Zander, Benjamin Zander",
+      "year": "2004",
+      "isbn": "9788883635649",
+      "category": "",
+      "location": "",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=9CZkAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1787745671040,
       "title": "Gestire bene il tempo di lavoro. Strategie di time management",
