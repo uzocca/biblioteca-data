@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-26T11:42:51.546Z",
+  "updated": "2026-08-26T11:44:05.974Z",
   "books": [
+    {
+      "id": 1787744645368,
+      "title": "La morte della pubblicità",
+      "author": "Bruno Ballardini",
+      "year": "1998",
+      "isbn": "9788882100957",
+      "category": "",
+      "location": "",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": ""
+    },
     {
       "id": 1787744570634,
       "title": "33 strategie della guerra",
