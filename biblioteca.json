@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-21T20:35:31.056Z",
+  "updated": "2026-08-26T11:42:51.546Z",
   "books": [
+    {
+      "id": 1787744570634,
+      "title": "33 strategie della guerra",
+      "author": "Robert Greene",
+      "year": "2010",
+      "isbn": "9788860732552",
+      "category": "",
+      "location": "",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=kK_tQwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1787333905369,
       "title": "Liberi e uguali. Manifesto per una società giusta",
