@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-26T11:54:50.561Z",
+  "updated": "2026-08-26T11:55:10.059Z",
   "books": [
+    {
+      "id": 1787745309446,
+      "title": "Qualunque cosa pensi, pensa il contrario",
+      "author": "Paul Arden",
+      "year": "2006",
+      "isbn": "9788850212606",
+      "category": "",
+      "location": "",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=BDW5PAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1787745289786,
       "title": "Il ruggito della mucca viola. Ci vuol coraggio per farsi notare",
