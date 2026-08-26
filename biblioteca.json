@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-26T11:58:41.407Z",
+  "updated": "2026-08-26T11:58:51.647Z",
   "books": [
+    {
+      "id": 1787745531001,
+      "title": "Il libro dei pigri felici",
+      "author": "Kathrin Passig, Sascha Lobo",
+      "year": "2010",
+      "isbn": "9788807171918",
+      "category": "",
+      "location": "",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=p7GORAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1787745520857,
       "title": "Niente resterà pulito",
