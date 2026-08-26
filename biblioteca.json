@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-26T11:56:51.458Z",
+  "updated": "2026-08-26T11:57:03.131Z",
   "books": [
+    {
+      "id": 1787745422572,
+      "title": "Esperti di troppo. Il paradosso delle professioni disabilitanti",
+      "author": "Ivan Illich",
+      "year": "2008",
+      "isbn": "9788861373105",
+      "category": "",
+      "location": "",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=FPPALxJ2aXkC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1787745410861,
       "title": "Non dipende da te. Affidati alla vita. Così realizzi i tuoi desideri",
