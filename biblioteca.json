@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-26T11:56:39.148Z",
+  "updated": "2026-08-26T11:56:51.458Z",
   "books": [
+    {
+      "id": 1787745410861,
+      "title": "Non dipende da te. Affidati alla vita. Così realizzi i tuoi desideri",
+      "author": "Raffaele Morelli",
+      "year": "2007",
+      "isbn": "9788870711134",
+      "category": "",
+      "location": "",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=9wiWPQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1787745398237,
       "title": "Cambiare occhi toccare il cuore. Aforismi terapeutici",
