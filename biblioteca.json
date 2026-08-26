@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-26T11:58:51.647Z",
+  "updated": "2026-08-26T11:59:22.652Z",
   "books": [
+    {
+      "id": 1787745561705,
+      "title": "Come smettere di farsi le seghe mentali e godersi la vita",
+      "author": "Giulio Cesare Giacobbe",
+      "year": "2006",
+      "isbn": "9788879288446",
+      "category": "",
+      "location": "",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=jbmDPQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1787745531001,
       "title": "Il libro dei pigri felici",
