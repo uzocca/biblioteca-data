@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-26T11:48:52.976Z",
+  "updated": "2026-08-26T11:49:36.639Z",
   "books": [
+    {
+      "id": 1787744975859,
+      "title": "Ottantatré giochi psicologici per la conduzione dei gruppi. Un manuale per psicologi, insegnanti, operatori sociali, animatori...",
+      "author": "Sabina Manes",
+      "year": "2004",
+      "isbn": "9788846401007",
+      "category": "",
+      "location": "",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=hLfLc1tHpDYC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1787744931899,
       "title": "Scrivere un thriller. Come creare e pubblicare un libro di successo",
