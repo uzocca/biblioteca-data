@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-26T11:44:15.730Z",
+  "updated": "2026-08-26T11:44:34.940Z",
   "books": [
+    {
+      "id": 1787744674280,
+      "title": "Semiotica",
+      "author": "Algirdas Julien Greimas, Joseph Courtés",
+      "year": "2007",
+      "isbn": "9788861590038",
+      "category": "",
+      "location": "",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=gXd-FU_xNl8C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1787744655171,
       "title": "L'altra pubblicità. Dal neorealismo pubblicitario alla «Video on the road»: nuove formule e strategie per fare comunicazione. Con CD-ROM",
