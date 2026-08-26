@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-26T12:02:09.562Z",
+  "updated": "2026-08-26T12:03:37.103Z",
   "books": [
+    {
+      "id": 1787745816267,
+      "title": "Dal trasmettere al comunicare",
+      "author": "Danilo Dolci",
+      "year": "2015",
+      "isbn": "",
+      "category": "",
+      "location": "",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=YbvODwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1787745728576,
       "title": "Semiotica, marketing e comunicazione",
