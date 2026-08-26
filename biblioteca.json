@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-26T11:57:03.131Z",
+  "updated": "2026-08-26T11:58:31.992Z",
   "books": [
+    {
+      "id": 1787745511232,
+      "title": "Intelligenza emotiva al lavoro. Una guida per mettere a frutto il proprio quoziente emotivo",
+      "author": "Hendrie Weisinger",
+      "year": "2004",
+      "isbn": "9788845201196",
+      "category": "",
+      "location": "",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=l5iqAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1787745422572,
       "title": "Esperti di troppo. Il paradosso delle professioni disabilitanti",
