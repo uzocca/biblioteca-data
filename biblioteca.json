@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-26T12:00:37.740Z",
+  "updated": "2026-08-26T12:01:00.342Z",
   "books": [
+    {
+      "id": 1787745659594,
+      "title": "La tecnica delle domande. Training rapido per avere successo nei colloqui e nelle trattative",
+      "author": "Vera F. Birkenbihl",
+      "year": "1997",
+      "isbn": "9788820469634",
+      "category": "",
+      "location": "",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=4oPKwAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1787745637134,
       "title": "Il marketing di se stessi",
