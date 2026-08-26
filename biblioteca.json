@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-26T12:04:47.111Z",
+  "updated": "2026-08-26T12:05:31.477Z",
   "books": [
+    {
+      "id": 1787745930733,
+      "title": "L'arte della creativity",
+      "author": "Alex F. Osborn",
+      "year": "2005",
+      "isbn": "",
+      "category": "",
+      "location": "",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": ""
+    },
     {
       "id": 1787745886205,
       "title": "Semiotica: testi esemplari",
