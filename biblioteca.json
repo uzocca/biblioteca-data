@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-26T12:03:37.103Z",
+  "updated": "2026-08-26T12:04:34.126Z",
   "books": [
+    {
+      "id": 1787745873198,
+      "title": "Teorie delle comunicazioni di massa",
+      "author": "Mauro Wolf",
+      "year": "1985",
+      "isbn": "9788845211973",
+      "category": "",
+      "location": "",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": ""
+    },
     {
       "id": 1787745816267,
       "title": "Dal trasmettere al comunicare",
