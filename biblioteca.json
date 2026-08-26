@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-26T11:45:10.870Z",
+  "updated": "2026-08-26T11:46:03.194Z",
   "books": [
+    {
+      "id": 1787744762143,
+      "title": "Le regole del gioco",
+      "author": "Bernard Brochand, Jacques Lendrevie",
+      "year": "1986",
+      "isbn": "9788885838086",
+      "category": "",
+      "location": "",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": ""
+    },
     {
       "id": 1787744710002,
       "title": "PNL. Comunicare per vendere",
