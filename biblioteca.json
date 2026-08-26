@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "updated": "2026-08-26T11:55:33.917Z",
+  "updated": "2026-08-26T11:56:39.148Z",
   "books": [
+    {
+      "id": 1787745398237,
+      "title": "Cambiare occhi toccare il cuore. Aforismi terapeutici",
+      "author": "Giorgio Nardone",
+      "year": "2007",
+      "isbn": "9788879288668",
+      "category": "",
+      "location": "",
+      "status": "daLeggere",
+      "rating": 0,
+      "notes": "",
+      "coverUrl": "https://books.google.com/books/content?id=qX76AwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
     {
       "id": 1787745333221,
       "title": "Fattore fortuna",
